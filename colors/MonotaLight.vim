@@ -13,7 +13,6 @@ hi Visual ctermfg=NONE ctermbg=250 cterm=NONE guifg=NONE guibg=#c9c8ce gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=253 cterm=NONE guifg=NONE guibg=#f1f2ec gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=252 cterm=NONE guifg=NONE guibg=#e7e8e2 gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=252 cterm=NONE guifg=NONE guibg=#e7e8e2 gui=NONE
-"hi LineNr ctermfg=237 ctermbg=249 cterm=NONE guifg=#30303a guibg=#bcbdb7 gui=NONE
 hi LineNr ctermfg=White ctermbg=249 cterm=NONE guifg=#ffffff guibg=#bcbdb7 gui=NONE
 hi VertSplit ctermfg=241 ctermbg=241 cterm=NONE guifg=#64645e guibg=#64645e gui=NONE
 hi MatchParen ctermfg=197 ctermbg=NONE cterm=underline guifg=#f92672 guibg=NONE gui=underline
@@ -24,8 +23,8 @@ hi PmenuSel ctermfg=DarkBlue ctermbg=LightGray cterm=NONE guifg=#6565ff guibg=#e
 hi IncSearch ctermfg=235 ctermbg=186 cterm=NONE guifg=#272822 guibg=#e6db74 gui=NONE
 hi Search ctermfg=Black ctermbg=LightBlue cterm=NONE guifg=Black guibg=LightBlue gui=NONE
 hi Directory ctermfg=129 ctermbg=NONE cterm=NONE guifg=#895cda guibg=NONE gui=NONE
-hi Folded ctermfg=242 ctermbg=235 cterm=NONE guifg=#75715e guibg=#272822 gui=NONE
-hi SignColumn ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#3c3d37 gui=NONE
+hi Folded ctermfg=White ctermbg=243 cterm=NONE guifg=#ffffff guibg=#676963 gui=NONE
+hi SignColumn ctermfg=White ctermbg=244 cterm=NONE guifg=#ffffff guibg=#757670 gui=NONE
 hi Normal ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#000000 guibg=#ffffff gui=NONE
 hi Boolean ctermfg=129 ctermbg=NONE cterm=NONE guifg=#895cda guibg=NONE gui=NONE
 hi Character ctermfg=129 ctermbg=NONE cterm=NONE guifg=#895cda guibg=NONE gui=NONE
@@ -48,7 +47,7 @@ hi NonText ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi Number ctermfg=129 ctermbg=NONE cterm=NONE guifg=#895cda guibg=NONE gui=NONE
 hi Operator ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
 hi PreProc ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
-hi Special ctermfg=243 ctermbg=NONE cterm=NONE guifg=#989892 guibg=NONE gui=NONE
+hi Special ctermfg=244 ctermbg=NONE cterm=NONE guifg=#75756f guibg=NONE gui=NONE
 hi SpecialKey ctermfg=249 ctermbg=255 cterm=NONE guifg=#b9b8ae guibg=#eaebe5 gui=NONE
 hi Statement ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
 hi StorageClass ctermfg=33 ctermbg=NONE cterm=NONE guifg=#178afb guibg=NONE gui=italic
