@@ -103,3 +103,5 @@ hi cssClassName ctermfg=106 ctermbg=NONE cterm=NONE guifg=#66a200 guibg=NONE gui
 hi cssValueLength ctermfg=129 ctermbg=NONE cterm=NONE guifg=#895cda guibg=NONE gui=NONE
 hi cssCommonAttr ctermfg=33 ctermbg=NONE cterm=NONE guifg=#178afb guibg=NONE gui=NONE
 hi cssBraces ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
+hi SpellBad ctermfg=231 ctermbg=197 cterm=NONE
+hi SpellCap ctermfg=231 ctermbg=197 cterm=NONE
