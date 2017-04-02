@@ -23,12 +23,12 @@ hi PmenuSel ctermfg=DarkBlue ctermbg=LightGray cterm=NONE guifg=#6565ff guibg=#e
 hi IncSearch ctermfg=235 ctermbg=186 cterm=NONE guifg=#272822 guibg=#e6db74 gui=NONE
 hi Search ctermfg=Black ctermbg=LightBlue cterm=NONE guifg=Black guibg=LightBlue gui=NONE
 hi Directory ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
-hi Folded ctermfg=250 ctermbg=235 cterm=NONE guifg=#a7a390 guibg=#272822 gui=NONE
+hi Folded ctermfg=246 ctermbg=235 cterm=NONE guifg=#a7a390 guibg=#272822 gui=NONE
 hi SignColumn ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#3c3d37 gui=NONE
 hi Normal ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#ffffff guibg=#272822 gui=NONE
 hi Boolean ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi Character ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
-hi Comment ctermfg=250 ctermbg=NONE cterm=NONE guifg=#a7a390 guibg=NONE gui=NONE
+hi Comment ctermfg=246 ctermbg=NONE cterm=NONE guifg=#a7a390 guibg=NONE gui=NONE
 hi Conditional ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
 hi Constant ctermfg=81 ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=NONE gui=NONE
 hi Define ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
