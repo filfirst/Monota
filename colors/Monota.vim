@@ -105,3 +105,5 @@ hi cssCommonAttr ctermfg=81 ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=NONE gui
 hi cssBraces ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi SpellBad ctermfg=231 ctermbg=197 cterm=NONE
 hi SpellCap ctermfg=231 ctermbg=197 cterm=NONE
+hi SyntasticWarning term=reverse ctermfg=231 ctermbg=215 gui=undercurl guisp=#FF9933
+hi SyntasticWarningSign term=reverse ctermfg=15 ctermbg=215 guifg=#FFFFFF guibg=#FF9933
